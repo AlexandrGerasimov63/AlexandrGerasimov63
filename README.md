@@ -2,8 +2,9 @@
 
 ### Всегда мечтал окунутся в мир разработки, на текущий момент активно двигаюсь к своей мечте 😉 ###
 ***
-#### Для связи [<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>](https://t.me/Phantom6390)
-##### @Phantom6390
+#### Для связи: 
+[<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>](https://t.me/Phantom6390) 
+@Phantom6390
 ***
 #### 🎓 Мой стек:
 
