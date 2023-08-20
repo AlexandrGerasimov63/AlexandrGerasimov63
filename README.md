@@ -9,7 +9,8 @@
 ***
 #### Для связи: 
 [<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>](https://t.me/Phantom6390) 
-##### @Phantom6390
+[<img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=EA4335"/>](mailto:fantom6391@gmail.com) 
+
 ***
 ## Примеры проектов:
 
